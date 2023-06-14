@@ -1,5 +1,5 @@
 # PFFSEm2023-2
-EN
+[EN]
 
 Final Project Retro Console, created by Pablo Escalona, Leonardo Campos, and Rodrigo Olvera.
 
@@ -27,7 +27,9 @@ Please follow the steps in the manual.
 
 
 
-ES
+[ES]
+
+
 proyecto final consola retro, hecho por Pablo Escalona, Leonardo Campos y Rodrigo Olvera.
 Este proyecto trata de emular una consola de videjuegos retro.
 
